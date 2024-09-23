@@ -1,0 +1,16 @@
+{
+  "name": "plyawright_js",
+  "version": "1.0.0",
+  "description": "franework base",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Pablo Logico",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  },
+  "dependencies": {
+    "plyawright_js": "file:"
+  }
+}
